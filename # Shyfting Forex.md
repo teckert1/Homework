@@ -1,28 +1,31 @@
-# Shyfting Forex
+# Moving ForEx from the bank to the cloud
 
-## Africa's Largest Bank - Standard Bank - is changing how South Africans handle their foreign exchange with the help of Currency Cloud. 
+## With the help of Currencycloud the ForEx market is getting more efficient and easier to access. 
 
-* Currency Cloud
+* Currencycloud
 
-* Currency Cloud was incorporated in 2012
+* Currencycloud was incorporated in 2012
 
 * Mike Laven, Nigel Verdon, Richard Arundel, Stephen Lemon are co-founders of the company
 
-* Foreign exchange has always been a clunky and arduous. Currency Cloud is aimed at disrupting the way individuals and corporations buy and sell foreign currencies, adding transparency and reducing costs. 
+* Foreign exchange has always been a clunky and arduous. Currencycloud is aimed at disrupting the way individuals and corporations buy and sell foreign currencies, adding transparency and reducing costs. 
 
-* Currency Cloud is currently in round E of funding and has raised about $160 million in funding. 
+* Currencycloud is currently in round E of funding and has raised about $160 million in funding. 
+>>(_Source: crunchbase_)[https://www.crunchbase.com/organization/the-currency-cloud]
+>>(_Source: Forbes_)[https://www.forbes.com/sites/tomgroenfeldt/2016/01/20/companies-go-global-in-payments-with-currency-cloud/#3361b6c96939]
 
 
 ## Business Activities:
 
-* Currency Cloud is looking to disrupt the way businesses and consumers buy and sell currency. 
+* Currencycloud is looking to disrupt the way businesses and consumers buy and sell currency. 
 
-* Currency Cloud started in the B2B sector and is moving into B2C transactions as well. 
-Currency Cloud's core business is a cloud based payment platform that their clients can use their APIs with or use one of Currency Cloud turnkey solutions. 
+* Currencycloud started in the B2B sector and is moving into B2C transactions as well. 
+Currencycloud's core business is a cloud based payment platform that their clients can use their APIs with or use one of Currencycloud turnkey solutions. 
 
 * Currencycloud's technology is based around four different modules - collect, convert, pay and manage - across these four modules they have 85 different APIs. Their proprietary services are entirely cloud based on AWS using Restful APIs. With freedom, speed, and visibility for the customer, Currencycloud is making moving money arround the world much easier. 
 
 ![The Currencycloud new path](https://assets.currencycloud.com/wp-content/uploads/2018/03/6001_oldway.png)
+>>(_Source: Currencycloud_)[https://www.currencycloud.com/company/]
 
 
 ## Landscape:
@@ -32,7 +35,7 @@ Currency Cloud's core business is a cloud based payment platform that their clie
 * The digital banking domains of Foreign Exchange and Foreign Transfers are experiencing exponential growth right now. From in person currency exchanges and opening foreign accounts with hundreds of pages of paperwork to buying and selling currency or exchanging currency with a few clicks through a mobile app. Crypto currencies and blockchain technology are invading the space offering secure, stabile transactions and cloud based technology making it possible from wherever you are. 
 
 * Other major competitors in this domain are Adyen, TransferWise, Money Mover, WeSwap. 
-
+>>(_Source: Currencycloud_)[https://www.currencycloud.com/company/]
 
 
 
@@ -42,7 +45,7 @@ Currency Cloud's core business is a cloud based payment platform that their clie
 
 * From the metrics that are available \(number of employees, funding, annual revenue\), Currencycloud is in the middle of the road for their domain. The largest comnpany has raised about 10x the capital and is earning about 7x the annual revenue of Currencycloud. 
 
->(_Source: Owler_)[https://www.owler.com/company/currencycloud]
+>>(_Source: Owler_)[https://www.owler.com/company/currencycloud]
 
 
 
@@ -54,4 +57,4 @@ Currency Cloud's core business is a cloud based payment platform that their clie
 
 * This new space would still use the same cloud based platforms with APIs, but it could also incorporate machine learning. Machine learning could adapt the platform and tailor it for each user, learning their habits and making recommendations on new positions. 
 
-* These technologies a
+* These technologies are key to their growth because they maintain their current platform and allow for the introduction of new-to-market users through education via machine learning. 
